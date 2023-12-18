@@ -1,2 +1,2 @@
 [.uppercase smallest bold backlink blue link-darken block]
-<<{java}#,java>>
+<<{articles}/java#,java>>
